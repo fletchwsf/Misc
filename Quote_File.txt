@@ -1,0 +1,237 @@
+
+
+The future is already here. It is just not uniformly distributed.
+
+- William Gibson
+
+--------------------
+Willpower is always more efficient than mechanical enforcement, when it works.
+But there is always a size of system beyond which willpower will be inadequate.
+
+- Butler Lampson
+
+--------------------
+What goes around comes around, and it grows as it goes.
+
+- Unknown
+
+--------------------
+The chief cause of problems is solutions
+- Eric Sevareid
+
+--------------------
+Pandora's cat is out of the barn, and the genie won't go back in the closet.
+
+- Peter G. Neumann.
+
+------------------
+Organic chemistry is the study of carbon compounds;
+Biochemistry is the study of carbon compounds that crawl
+
+- Unknown
+
+--------------------
+Never ascribe to malice that which is adequately explained by incompetence.
+
+- Unknown
+
+--------------------
+Knowledge is knowing a street is one way;
+wisdom is still looking both ways.
+
+- Unknown
+
+--------------------
+In theory, there is no difference between theory and practice.
+In practice, there is an enormous difference.
+
+- Various - personal adaptation by Peter G. Neumann, 2004
+
+--------------------
+In the 60's everyone took acid to make the world appear weird.
+Today everyone takes Prozac to make the world appear normal
+
+- Unknown
+
+--------------------
+If at First You Don't Succeed, Skydiving Isn't for You.
+
+- Unknown
+
+--------------------
+If a program has not been specified,
+it cannot be incorrect;
+it can only be surprising.
+
+- W.D. Young, W.E. Boebert, R.Y. Kain
+
+--------------------
+Forty-two: the answer to the question of life, the universe, and everything.
+
+- Douglas Adams - The Hitchhikers Guide to the Galaxy
+
+--------------------
+Everything should be as simple as possible - but no simpler.
+
+- Albert Einstein
+
+--------------------
+en.gin.eer en-ji-nir n 1: a mechanism for converting caffeine into designs.
+
+- Unknown
+
+--------------------
+disclaimer: I'm human. I make mistakes too, but I try to fix them if you ask
+nice.
+
+- Graham Daws
+
+--------------------
+Bad software lives forever.
+Good software gets updated until it goes bad,
+in which form it lives forever.
+
+- Casey Schaufler
+
+--------------------
+Artificial Intelligence is no match for natural stupidity.
+
+- Unknown
+
+--------------------
+An empty list is a sorted list.
+
+- Unknown
+
+--------------------
+With sufficient thrust, pigs fly just fine.
+However, this is not necessarily a good idea.
+It is hard to be sure where they are going to land,
+and it could be dangerous sitting under them as they fly overhead.
+
+From: RFC 1925 (rfc1925) - The Twelve Networking Truths
+http://www.faqs.org/rfcs/rfc1925.html
+
+--------------------
+"If I'm not here, I've gone out to find myself.
+If I return before I get back, please keep me here."
+
+- Unknown
+
+--------------------
+You have already made the choice, now you have to understand it.
+
+The Oracle - from the movie The Matrix
+
+------------------
+"I'm in awe, Lennier. The way you can take a straightforward, logical
+proposition and turn it inside-out so that in the end it says .. what you
+want it to say instead of what it actually means. Does this come naturally
+or did you .. attend some special martial arts class for the
+philosophically inclined?"
+
+--Marcus, Babylon 5
+
+--------------------
+There are only two choices in life.
+You either conform the truth to your desire,
+or you conform your desire to the truth.
+Which choice are you making?
+
+Author - Unknown
+
+
+--------------------
+Real programmers don't comment their code.
+If it was hard to write, it should be hard to understand.
+
+- Unknown
+
+--------------------
+"Debugging is twice as hard as writing the code in the first place.
+Therefore, if you write the code as cleverly as possible, you are,
+by definition, not smart enough to debug it."
+
+- Brian W. Kernighan
+
+--------------------
+Stupidity, like virtue, is its own reward
+
+- Unknown
+
+
+--------------------
+"Even if you are on the right track,
+you'll get run over if you just sit there"
+- Will Rogers
+
+--------------------
+"No! Try not. Do, or do not. There is no try."
+- Yoda
+
+--------------------
+Programmer: A biological system designed to convert coffee and cheesies into
+code
+
+- Unknown
+
+--------------------
+I am a computer programmer, not a lawyer.
+My opinions are my own, and sometimes those of the voices in my head.
+
+- Unknown
+
+--------------------
+Pizza is an acceptable breakfast.
+Just think of it as a large pepperoni Danish.
+
+- Unknown
+
+--------------------
+"Any technology distinguishable from magic is insufficiently advanced."
+
+- Geek's Corollary to Clarke's Law
+--------------------
+
+"Profanity is the effort of a feeble mind to express itself--forcefully."
+--the late Rev. O. Dean Martin
+
+
+--------------------
+Eat a toad for breakfast -- it makes the rest of the day seem so much easier
+
+- (Chinese (I'm told) proverb)
+
+--------------------
+Every man is a damn fool for at least five minutes every day; wisdom consists in
+not exceeding the limit.
+
+- Elbert Hubbard
+
+--------------------
+In matters of style, swim with the current, in matters of principle, stand like
+a rock.
+
+--Thomas Jefferson
+
+--------------------
+Great minds talk about ideas, average minds talk about events, small minds talk
+about each other.
+
+- Eleanor Roosevelt
+
+-------------------
+"The greatest enemy of knowledge is not ignorance,
+it is the illusion of knowledge."
+
+- Stephen Hawking
+
+--------------------
+There is a limit to human intelligence, there is no limit to human stupidity.
+
+- Unknown
+
+--------------------
+Artificial Intelligence is no match for natural stupidity
+
+- Author Unknown
